@@ -19,7 +19,7 @@
 - **SentenceTransformer**
 - **cKDTree** из **SciPy**
 - sklearn.metrics.pairwise **cosine_similarity**
-- **smatplotlib.pyplot**
+- **matplotlib**
 - **мультиязычная pre-trained модель 'distiluse-base-multilingual-cased-v2'**
 
 ## Описание выполнения работы
